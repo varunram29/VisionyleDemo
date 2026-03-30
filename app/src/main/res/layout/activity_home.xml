@@ -10,7 +10,7 @@
     <!-- activity_main.xml -->
     <fragment
         android:id="@+id/fragment_container"
-        android:name="com.hawks.visionyle_demo.HomeFragment"
+        android:name="com.hawks.visionyle_demo.fragments.HomeFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
